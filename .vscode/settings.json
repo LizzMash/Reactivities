@@ -1,0 +1,14 @@
+{
+    "outline.problems.enabled": true,
+    "problems.decorations.enabled": true,
+    "typescript.enablePromptUseWorkspaceTsdk": true,
+    "files.autoSave": "afterDelay",
+    "mssql.intelliSense.lowerCaseSuggestions": true,
+    "typescript.autoClosingTags": true,
+    "typescript.check.npmIsInstalled": true,
+    "typescript.format.enable": true,
+    "typescript.format.insertSpaceAfterCommaDelimiter": true,
+    "problems.showCurrentInStatus": true,
+    "outline.problems.colors": true,
+    "outline.problems.badges": true
+}
