@@ -10,5 +10,6 @@
     "typescript.format.insertSpaceAfterCommaDelimiter": true,
     "problems.showCurrentInStatus": true,
     "outline.problems.colors": true,
-    "outline.problems.badges": true
+    "outline.problems.badges": true,
+    "workbench.colorTheme": "Abyss"
 }
