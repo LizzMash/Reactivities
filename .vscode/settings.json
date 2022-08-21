@@ -11,5 +11,9 @@
     "problems.showCurrentInStatus": true,
     "outline.problems.colors": true,
     "outline.problems.badges": true,
-    "workbench.colorTheme": "Abyss"
+    "workbench.colorTheme": "Abyss",
+    "editor.suggest.snippetsPreventQuickSuggestions": true,
+    "search.quickOpen.includeSymbols": false,
+    "problems.autoReveal": true,
+    "mssql.intelliSense.enableErrorChecking": true
 }
